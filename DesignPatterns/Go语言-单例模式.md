@@ -242,6 +242,8 @@ func main() {
 # 参考资料
 
 1 [https://blog.csdn.net/TCatTime/article/details/106882600](https://blog.csdn.net/TCatTime/article/details/106882600)
+
 2 [https://blog.csdn.net/qq_37703616/article/details/81989889](https://blog.csdn.net/qq_37703616/article/details/81989889)
+
 3 [https://github.com/tmrts/go-patterns/blob/master/creational/singleton.md](https://github.com/tmrts/go-patterns/blob/master/creational/singleton.md)
 
